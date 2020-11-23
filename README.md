@@ -17,3 +17,6 @@ Rubyをインストールしないと動かない(当たり前)のが
 - [Go by Example: Directories](https://gobyexample.com/directories) - Goで`mkdir -p`
 - [GitHub - rwcarlsen/goexif: Decode embedded EXIF meta data from image files.](https://github.com/rwcarlsen/goexif) - GoのEXIF (他にもいろいろ)
 - cpはio.Copyでいいや
+- RustのEXIFライブラリ - [exif - Keywords - crates.io: Rust Package Registry](https://crates.io/keywords/exif)
+- [Filesystem Operations - Rust By Example](https://doc.rust-lang.org/rust-by-example/std_misc/fs.html) - Rustの`mkdir -p`
+- [std::fs::copy - Rust](https://doc.rust-lang.org/std/fs/fn.copy.html)
